@@ -231,7 +231,7 @@ body{
 .sevsec .top{
     height: 300px;
     margin: 0;
-    background: url("../images/wolf1.jpg");
+    background: url("../images/fox.jpg");
     background-repeat: no-repeat;
     background-size: cover;   
 }
@@ -280,7 +280,7 @@ body{
     margin: 0;
     width:70%;
     float: left;
-    background: url("../images/throughfield.jpg");
+    background: url("../images/wheatt.jpg");
 }
 .sevsec3 .top .right{
     height: 300px;
