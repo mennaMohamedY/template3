@@ -1,6 +1,6 @@
 body{
     background-color: #BA9696;
-    width: 12308px;
+    width: 12508px;
     padding: 0px;
     margin: 0;
 }
@@ -27,7 +27,7 @@ body{
 .fixed p.back{background-color: #3B414D; padding: 7px 10px 13px 10px; font-weight: bold; margin-left: 10px;}
 .fixed p.download{background-color: #E7746F; padding: 7px 10px 13px 10px; border: 1px solid #E7746F; margin-left: 10px;}
 
-.flex-container{display: flex; flex-wrap: nowrap; width: 12231px; padding: 46px 56px 10px 51px;}
+.flex-container{display: flex; flex-wrap: nowrap; width: 12431px; padding: 46px 56px 10px 51px;}
 .secsec{
     height: 600px;
     width: 1188px;
@@ -694,9 +694,11 @@ body{
     color : rgba(208, 211, 214, 0.449);
 }
 .elesec7 .choice{margin-top: 20px;}
-.elesec7 .circ{width: 36px;height: 36px; color: #AE5457; margin-right: 122px;}
-.elesec7 .squa{width: 36px;height: 36px; color: #AE5457; margin-right: 155px;}
-.elesec7 .messag{display: block; font-size: 21px; margin: 10px 20px 10px 0px;}
+.elesec7 .circ{width: 30px;height: 30px; color: #AE5457; margin-right: 10px;}
+.elesec7 .squa{width: 30px;height: 30px; color: #AE5457; margin-right: 10px;border: 1px solid rgba(221, 224, 226, 0.849); border-radius: 4px;}
+.elesec7 .message{margin: 28px 10px 10px 0px;}
+.elesec7 .messag{display: block; font-size: 20px; margin: 10px 20px 10px 0px;}
+.elesec7 .w{margin-right: 36px; font-size: 17px; display: inline;}
 .elesec7 .tex{ 
     padding: 11px 400px 69px 10px;
     border: 1px solid rgba(208, 211, 214, 0.549);
