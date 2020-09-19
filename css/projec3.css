@@ -27,7 +27,7 @@ body{
 .fixed p.back{background-color: #3B414D; padding: 7px 10px 13px 10px; font-weight: bold; margin-left: 10px;}
 .fixed p.download{background-color: #E7746F; padding: 7px 10px 13px 10px; border: 1px solid #E7746F; margin-left: 10px;}
 
-.flex-container{display: flex; flex-wrap: nowrap; width: 12231px; padding: 27px 56px 10px 10px;}
+.flex-container{display: flex; flex-wrap: nowrap; width: 12231px; padding: 46px 56px 10px 51px;}
 .secsec{
     height: 600px;
     width: 1188px;
