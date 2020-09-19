@@ -706,8 +706,18 @@ body{
     background-color: #AE5457;
     font-size: 18px;
 }
-
-
+.sevsec .top:hover,
+.sevsec .bottom .left:hover,
+.sevsec .bottom .right:hover,
+.sevsec2:hover,
+.sevsec3 .top .left:hover,
+.sevsec3 .top .right:hover,
+.sevsec3 .bottom .left:hover,
+.sevsec3 .bottom .right:hover,
+.sevsec4:hover
+{
+    transform: scale(1.25);
+}
 
 
 
