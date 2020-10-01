@@ -11,10 +11,15 @@ window.onload = function(){
         if (i == $autotext.length){
             clearInterval($interval);
             $parag.innerHTML += " &copy;";
-        }
-
-        
+        }     
     },100);
+}
+
+var $button = document.querySelector(".circle");
+    
+$button.onclick = function(){
+    console.log("scrollleft");
+      window.scrollTo(1000,0);
 }
 
 
